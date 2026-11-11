@@ -84,7 +84,7 @@ Write clean, descriptive conventional commits:
 
 ### Submitting PRs
 1. Push your branch to your forked repository.
-2. Submit a Pull Request targeting the `main` branch of `SH20RAJ/solus`.
+2. Submit a Pull Request targeting the `main` branch of `playlikeboy/solus`.
 3. Provide a clear description of the problem solved, changes made, and visual screenshots or videos demonstrating the updates.
 
 Thank you again for making Solus a digital sanctuary for self-reflection! 🧘

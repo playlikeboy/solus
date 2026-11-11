@@ -59,7 +59,7 @@ I hope this email finds you well.
 
 I’ve been following your investments at [Fund Name], specifically your focus on high-trust platforms and ethical tech models.
 
-I am the founder of Solus (https://github.com/SH20RAJ/solus). We are building the world’s first Personal Social Network.
+I am the founder of Solus (https://github.com/playlikeboy/solus). We are building the world’s first Personal Social Network.
 
 The Problem:
 Modern social media is performative. Users are exhausted by broadcasting for likes, comments, and algorithms. Millions perform "digital detoxes," but when they leave, they lose the habit of documenting their lives entirely.
@@ -81,7 +81,7 @@ Warm regards,
 
 [Your Name]
 Founder, Solus
-GitHub: https://github.com/SH20RAJ/solus
+GitHub: https://github.com/playlikeboy/solus
 ```
 
 ---
@@ -94,7 +94,7 @@ Hi [Journalist Name],
 
 I read your recent article on [recent topic/digital fatigue], and it resonated deeply.
 
-I wanted to share a project I've launched that tackles this problem from a new angle: Solus (https://github.com/SH20RAJ/solus).
+I wanted to share a project I've launched that tackles this problem from a new angle: Solus (https://github.com/playlikeboy/solus).
 
 Solus is a "personal social network." It gives users the familiar, rich media-upload experience of Instagram and Snapchat, but removes the audience entirely. There are no followers, no public likes, and no comments. Everything is private by default. 
 

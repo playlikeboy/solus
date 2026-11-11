@@ -3,6 +3,6 @@ export const APP_CONFIG = {
 	title: "Solus — Leave everyone. Don't leave yourself.",
 	description:
 		"A private social network where you document your life without an audience and share your story only when you're ready.",
-	githubUrl: "https://github.com/SH20RAJ/solus",
+	githubUrl: "https://github.com/playlikeboy/solus",
 	ogImage: "/og-image.png",
 } as const;

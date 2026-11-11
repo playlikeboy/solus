@@ -173,7 +173,7 @@ Whether you want to build features, fix UI bugs, or improve copywriting:
 
 ```bash
 # Clone the repository
-git clone https://github.com/SH20RAJ/solus.git
+git clone https://github.com/playlikeboy/solus.git
 cd solus
 
 # Install dependencies
@@ -236,5 +236,5 @@ Social media made us perform for others. Solus helps people **live for themselve
 ---
 
 <p align="center">
-  Made with 💜 by <a href="https://github.com/SH20RAJ">SH20RAJ</a>
+  Made with 💜 by <a href="https://github.com/playlikeboy">SH20RAJ</a>
 </p>
